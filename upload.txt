@@ -1,0 +1,33 @@
+Personal Branding Exercise
+
+
+I use my basic Node.js skills and beginner UI planning skills for building simple apps that make things easier to do. Known for learning new tools quickly, I have been able to put together small but functional projects. Using a straightforward, problem-solving mindset, I try to make digital tasks smoother for people, by providing simple, clean, and practical solutions. Through my focus on improving every day, I believe that good software should feel easy, not overwhelming when I serve people who just want tools that work well and make their lives easier.
+
+
+Digital Presence Exercise
+
+
+Clean up social media
+I’m going to go through my Instagram, Reddit, X, and LinkedIn and delete or hide stuff that looks unprofessional or just doesn’t fit the direction I’m trying to go. I’ll keep anything related to tech, school, or projects, and make sure my profiles at least look somewhat consistent.
+
+Look at other developers’ portfolios
+I plan to check out portfolios from actual full-stack developers and even other bootcamp students to see how they set theirs up. I want to get a feel for what looks good, what’s too much, and what people usually include when they’re just starting out.
+
+Figure out what to share online
+I’ll share things like updates on what I’m learning, screenshots of small projects, maybe some struggles I run into while coding, that kind of stuff. I’m staying away from posting random personal things on the accounts I’ll be using for career purposes.
+
+Join groups and communities
+I’ll start joining tech communities on Reddit, Discord, and LinkedIn. I want to be active enough to learn from people, ask questions, and maybe share progress once in a while. Basically trying to be around people who are also learning or already working in the field.
+
+Connect with people in the industry
+I’ll add developers on LinkedIn (like my dad) and send short intros so I don’t look like a bot. I’ll try liking and commenting on posts from people working in full-stack or software roles I’m interested in. It’s more about getting used to being part of the tech space online, I also would like to start learning first hand from my dad since he is a full stack developer
+
+Follow companies
+I’ll follow companies I’m actually interested in—local ones, tech startups, and any company hiring junior devs. It helps me see what they post, what skills they want, and what’s happening in the industry.
+
+Pick webinars or conferences to attend
+I’ll look into beginner-friendly webinars and coding events, especially ones about web development or full-stack work. Anything that helps me learn more or gives me a chance to meet people in the field is useful at this stage.
+
+This is my portfolio
+
+https://smo0o.github.io/sams-portfolio/
